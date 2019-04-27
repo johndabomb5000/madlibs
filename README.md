@@ -1,3 +1,15 @@
+## Learning HTML
+
+* [Getting To Know HTML](html/1.md)
+* [HTML Syntax & Document Structure](html/2.md)
+* [HTML Text Elements](html/3.md)
+* [HTML Links](html/4.md)
+* [HTML Inputs](html/5.md)
+
+## Learning CSS
+
+## Learning JavaScript
+
 ## Flatiron School MadLibs
 
 This is an exercise that combines basic HTML, CSS, and JavaScript to make a simple web application.
