@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flatiron School MadLibs!</title>
+        <link rel="stylesheet" href="style.css" />
+        <script src="app.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <header>
+            <h1>Flatiron School MadLibs</h1>
+        </header>
+        <main>
+            <section class="word-entry">
+                <h2>Enter words here!</h2>
+                <label for="word-1">First Name: </label>
+                <input id="word-1-input" />
+
+                <label for="word-2">Last Name: </label>
+                <input id="word-2-input" />
+
+                <label for="word-3">Illness: </label>
+                <input id="word-3-input" />
+
+                <label for="word-4">Plural Noun: </label>
+                <input id="word-4-input" />
+
+                <label for="word-5">Adjective: </label>
+                <input id="word-5-input" />
+
+                <label for="word-6">Adjective: </label>
+                <input id="word-6-input" />
+
+                <label for="word-7">Silly Word: </label>
+                <input id="word-7-input" />
+
+                <label for="word-8">Place: </label>
+                <input id="word-8-input" />
+
+                <label for="word-9">Number: </label>
+                <input id="word-9-input" />
+
+                <label for="word-10">Silly word:</label>
+                <input id="word-10-input" />
+
+                <button onclick="addWordsToMadLib();">Add words!</button>
+            </section>
+            <section class="madlibs-result">
+                <h2>Read your MadLib here!</h2>
+                <p>Dear School Nurse:<p>
+                <p>
+                    <span id="word-1">_____</span> <span id="word-2">_____</span> 
+                    will not be attending school today. He/she has come down with a case of 
+                    <span id="word-3">_____</span> 
+                    and has horrible 
+                    <span id="word-4">_____</span> 
+                    and a/an 
+                    <span id="word-5">_____</span> 
+                    fever. We have made an appointment with the 
+                    <span id="word-6">_____</span> 
+                    Dr. <span id="word-7">____</span>, 
+                    who studied for many years in 
+                    <span id="word-8">_____</span> 
+                    and has 
+                    <span id="word-9">_____</span> 
+                    degrees in pediatrics. He will send you all the information you need. Thank you!
+                </p>
+                <p>Sincerely,</p>
+                <p>Mrs. <span id="word-10">_____</span>.</p>
+            </section>
+        </main>
+    </body>
+</html>

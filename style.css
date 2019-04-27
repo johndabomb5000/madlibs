@@ -1,0 +1,41 @@
+body {
+    font-family: arial;
+    padding: 1rem;
+    max-width: 600px;
+}
+
+h1 {
+    color: #ea882d;
+}
+
+h2 {
+    font-style: italic;
+}
+
+input, label, button {
+    display: block;
+    width: 100%;
+}
+
+input {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+button {
+    padding: 1rem;
+    background-color: #00cc55;
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    border: none;
+    cursor: pointer;
+}
+
+.word-entry {
+    max-width: 300px;
+}
+
+.madlibs-result {
+    font-size: 1.5rem;
+}
