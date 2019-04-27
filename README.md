@@ -1,4 +1,6 @@
-## Learning HTML
+## Learning Content
+
+### Learning HTML
 
 * [Getting To Know HTML](html/1.md)
 * [HTML Syntax & Document Structure](html/2.md)
@@ -6,7 +8,7 @@
 * [HTML Links](html/4.md)
 * [HTML Inputs](html/5.md)
 
-## Learning CSS
+### Learning CSS
 
 * [CSS Fundamentals](css/1.md)
 * [CSS Syntax and Formats](css/2.md)
@@ -15,13 +17,19 @@
 * [CSS Color](css/5.md)
 * [CSS Fonts](css/6.md)
 
-## Learning JavaScript
+### Learning JavaScript
 
-## Flatiron School MadLibs
+* [Intro to JavaScript](js/1.md)
+* [JavaScript Variables](js/2.md)
+* [JavaScript Functions](js/3.md)
+* [JavaScript and HTML](js/4.md)
+* [Calling JavaScript From HTML](js/5.md)
+
+## Activity: Flatiron School MadLibs
 
 This is an exercise that combines basic HTML, CSS, and JavaScript to make a simple web application.
 
-## Instructions
+### Instructions
 
 * Make an HTML page that includes:
     * A title
@@ -41,11 +49,11 @@ This is an exercise that combines basic HTML, CSS, and JavaScript to make a simp
     * Set the text of the relevant `<span>` elements in the HTML page equal to what you stored in the relevant variable
 * Call the function in your JavaScript file *from the HTML page* when the button is clicked
 
-## Demo
+### Demo
 
 Check out the [demo](https://madlibs-baolyylzvg.now.sh) to see one way to do this!
 
-## Example Mad Lib
+### Example Mad Lib
 
 Here is an example MadLib that you can use, but feel free to get creative!
 
@@ -57,3 +65,7 @@ Dear School Nurse:
 Sincerely,
 Mrs. Adjective.
 ```
+
+### Deployment
+
+You can deploy your madlibs to the internet and share it with your friends using [now.sh](https://zeit.co/now)!
