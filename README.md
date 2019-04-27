@@ -8,6 +8,13 @@
 
 ## Learning CSS
 
+* [CSS Fundamentals](css/1.md)
+* [CSS Syntax and Formats](css/2.md)
+* [CSS Selectors](css/3.md)
+* [CSS Authority and Inheritance](css/4.md)
+* [CSS Color](css/5.md)
+* [CSS Fonts](css/6.md)
+
 ## Learning JavaScript
 
 ## Flatiron School MadLibs
